@@ -3,4 +3,4 @@ second line
 third line
 4th line
 5th line
-6th line from github
+6th line from github and local done with 'git pull -r'
